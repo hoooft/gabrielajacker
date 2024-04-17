@@ -12,7 +12,7 @@ Info ps:
     - El exámen final se hara sin chatgpt, google o algun tipo de ayuda con el internet, se permitira un cheatsheet pero solo puede ser la dada por el profe
 
 """
-#import datetime
+import datetime
 
 """
 1. Ingresa la edad de alguien e imprime su nombre pero da un error si no se ingresa un número - (Dificultad 1 de 5).
